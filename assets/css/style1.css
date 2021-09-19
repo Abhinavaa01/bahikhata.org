@@ -81,8 +81,8 @@
 }
 .myButton:hover {
 	background-color:#080c12;
-    text-shadow:0px 1px 0px #0f1014;
-	box-shadow: 0px 0px 5px 3px #1b1f2b;
+	color:#ffffff;
+    
 }
 .myButton:active {
 	position:relative;
@@ -98,4 +98,8 @@
     align-self: center;
     align-content: center;
     text-align: center;
+}
+
+.contentlogos {
+    size: 100px 80px;
 }

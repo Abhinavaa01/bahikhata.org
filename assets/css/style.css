@@ -1,3 +1,6 @@
+*{
+    margin: 0;padding: 0;
+}
 
 body {
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
@@ -529,6 +532,149 @@ ul {
 }
 .connectivity-left-content{
     max-width: 350px;
-    margin-right: 50px;
+    margin-right: 10%;
+    margin-left: 20%;
 }
+
+.digital-infra-connectivity-image {
+    width: 50%;
+    height: 300px;
+}
+
 /*--// digital infrastructure page-- */
+
+/* About us page */
+.section-aboutus{
+    width: 100%;
+    padding: 0;
+}
+.container-aboutus{
+    padding: 0;
+    margin: 0;
+}
+.aboutus-img {
+    width: 100%;
+    max-height:1378px;
+}
+.section-aboutus-title{
+    padding: 60px 0;
+}
+.section-aboutus-title .aboutus-title{
+    font-weight: 600 !important;
+    font-size: 32px;
+    margin-bottom: 0;
+}
+.section-aboutus-title .aboutus-subtitle{
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 0;
+    line-height: 25px;
+    margin-top: 6px;
+}
+.teamin {
+    width: 30%;
+}
+
+
+
+.team {
+    background-color: #405dff;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.who {
+    font-size: calc(20px * var(--title-scale));
+    line-height: 1.3em;
+}
+
+.grp {
+    font-size: 1.5em;
+}
+
+.profileimg {
+    width: 80px;
+}
+
+
+.teammem {
+    text-align: center;
+    margin: 10px 20px;
+    width: calc(33.3333% - 40px);
+}
+
+.discrip {
+    font-size: 1em;
+}
+
+.pdiscrip {
+    font-size: 1em;
+    line-height: 1.3em;
+}
+
+.content {
+    background: rgba(0, 0, 0, .8);
+    color: white;
+    height: 150px;
+    text-align: center;
+    font: 2em sans-serif;
+}
+
+.journey {
+ font-size: 2em;
+ text-align: center;
+ font-weight: bold;
+ margin-top: 50px;
+}
+
+.myButton {
+    text-align: center;
+    align-items: center;
+	background-color:#080c12;
+	border-radius:14px;
+	border:1px solid #080c12;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:11px 20px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#080c12;
+	color:#ffffff;
+    
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.contentlogos {
+    size: 100px 80px;
+}
+
+.myButton1 {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
+.contentlogos {
+    size: 100px 80px;
+}
+/*--// About us Page-- */
+
+
+/* Healthcare */
+
+
+
