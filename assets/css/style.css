@@ -657,6 +657,13 @@ ul {
 	top:1px;
 }
 
+.center-aboutus {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
 .contentlogos {
     size: 100px 80px;
 }
@@ -674,7 +681,133 @@ ul {
 /*--// About us Page-- */
 
 
-/* Healthcare */
 
 
+/* Healthcare & Education */
+.healthcare-body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(44,48,56,1);
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+}
 
+.healthcare-title-extra{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.education-centre {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    background-color: rgba(44,48,56,1);;
+}
+
+.body-video {
+    width: 65%;
+}
+
+.pt-50{
+    padding-top: 50px;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.mb-50px{
+    margin-bottom: 50px;
+}
+
+.healthcare-title {
+    font-size: 2em;
+}
+
+.healthcare-subtitle {
+    font-size: 1.2em;
+}
+
+.row-healthcare {
+    display: flex;
+}
+
+.mb-150px {
+    margin-bottom: 150px;
+}
+.ml-150px {
+    margin-left: 120px;
+}
+
+.mr-150px {
+    margin-right: 120px;
+}
+
+.whatwedo-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 15px 0px;
+}
+
+.whatwedo-subtitle {
+    width: 300px;
+    text-align: center;
+    height: 200px;
+}
+
+
+.doclogo-1 {
+    width: calc(33%-40px);
+}
+
+.ml-15px {
+    margin-left: 15px;
+}
+
+.mlr100 {
+    margin: 0px 100px;
+}
+
+.mr-15px {
+    margin-right: 15px;
+}
+
+.svg-edit {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.display-flex-health {
+    display: flex;
+}
+
+.ourservices-1 {
+    text-align: center;
+    width: 25%;
+}
+
+.ourservices-svg {
+    width: 350px;
+    height: 300px;
+}
+
+.education-img {
+    width: 75%;
+}
+
+.ml-17 {
+    margin-left: 22%;
+}
+
+.width-100 {
+    width: 50%;
+    margin-left: 25%;
+}
+/* //Healthcare & Education */
