@@ -673,6 +673,17 @@ ul {
     align-self: center;
     align-content: center;
     text-align: center;
+	background-color:#080c12;
+	border-radius:14px;
+	border:1px solid #080c12;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:11px 20px;
+	text-decoration:none;
 }
 
 .contentlogos {
@@ -811,3 +822,16 @@ ul {
     margin-left: 25%;
 }
 /* //Healthcare & Education */
+
+/* Insights Section */
+.insights-link {
+    text-decoration: none;
+    color: black;
+}
+
+.insights-post{
+    width: 60%;
+    margin-left: 30%;
+}
+
+/* //Insights Section */
